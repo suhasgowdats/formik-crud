@@ -1,0 +1,26 @@
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border-collapse: collapse;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+table,thead,td{
+    padding: 10px ;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+thead{
+    background-color: grey;
+}
+.btn1{
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding: 4px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: rgb(163, 110, 11);
+}

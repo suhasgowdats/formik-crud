@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(176, 176, 241);
+}
+.btn{
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: chocolate;
+    border: 1px solid chocolate;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(141, 70, 20);
+}
